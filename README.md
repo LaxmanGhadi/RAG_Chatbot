@@ -39,4 +39,6 @@ This project is open-source and available under the MIT License.
 ## Acknowledgments
 - [LangChain](https://github.com/hwchase17/langchain)
 - [ChromaDB](https://github.com/chroma-core/chroma)
+- This project is based on langchain-rag-tutorial from pixegami check ([langchain-rag-tutorial](https://github.com/pixegami/langchain-rag-tutorial)).
+- Also check ([rag-tutorial-v2](https://github.com/pixegami/rag-tutorial-v2)).
 
