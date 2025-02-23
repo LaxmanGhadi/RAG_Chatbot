@@ -1,6 +1,7 @@
 # RAG Chatbot
 
 This repository contains a Retrieval-Augmented Generation (RAG) chatbot implementation using LangChain and ChromaDB. The chatbot is designed to retrieve relevant documents and generate responses using OpenAI's language models.
+This chatbot is completely made using Google Colab .
 
 ## Features
 - Retrieves relevant data from a dataset before generating responses.
